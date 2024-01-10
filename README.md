@@ -4,7 +4,7 @@
 
 #### Tecnologias que eu uso no dia-a-dia
 
-[![Linkedin: Antonio William ](https://www.linkedin.com/in/antonio-william/)
+[![Linkedin: Antonio William ](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/antonio-william/)](https://www.linkedin.com/in/antonio-william/)
 
 
 ### ⚡ Technologias
